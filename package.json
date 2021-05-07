@@ -1,0 +1,14 @@
+{
+  "name": "schools",
+  "version": "1.0.0",
+  "description": "this is a sample api to get the information of all the schools in gilgit",
+  "main": "index.js",
+  "author": "sam",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16",
+    "nodemon": "^2.0.7"
+  }
+}
